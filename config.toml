@@ -1,4 +1,4 @@
 baseURL = 'http://ppinkhasov.github.io'
 languageCode = 'en-us'
 title = 'petr pinkhasov'
-theme = 'hugo-theme-air'
+theme = 'air'
